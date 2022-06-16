@@ -36,10 +36,6 @@ or get filtering options from URL:
 http://localhost:8080/analyze?analysis=wordCount,language
 ```
 
-
-Based on this task:  
-https://gitlab.com/-/snippets/2078938
-
 To start the server run  
 ``
 py main.py
