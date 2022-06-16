@@ -35,9 +35,6 @@ or get filtering options from URL:
 ```
 http://localhost:8080/analyze?analysis=wordCount,language
 ```
-Based on this task:  
-https://gitlab.com/-/snippets/2078938
-This was a task 
 
 To start the server run  
 ``
